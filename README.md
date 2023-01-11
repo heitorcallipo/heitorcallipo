@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a Front-End developer 👋
 
 <div align="center" style="display: inline-block;">
   <hr>
